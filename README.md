@@ -1,5 +1,5 @@
 # QSTP-Introduction-To-Mechatronics
-This repository contains all reading materials from the mechatronics summer course taught by [Sai Akshit](https://github.com/KSaiAkshit), [Atharva Ghotavadekar](https://github.com/Atharva-05) and [Ajay Krishna G](https://github.com), as part of the QSTP initiative. The goal of this content is to provide a moderate introduction to electronics, Arduino and CAD modelling for beginners. The course requires no hardware, and the Arduino part is completed using TinkerCAD, a free online circuit simulator.
+This repository contains all reading materials from the mechatronics summer course taught by [Sai Akshit](https://github.com/KSaiAkshit), [Atharva Ghotavadekar](https://github.com/Atharva-05) and [Ajay Krishna G](https://github.com/ajaykrishna1878), as part of the QSTP initiative. The goal of this content is to provide a moderate introduction to electronics, Arduino and CAD modelling for beginners. The course requires no hardware, and the Arduino part is completed using TinkerCAD, a free online circuit simulator.
 
 *PS: If you are a beginner interested in learning electronics and Arduino program, `Electronics Week` of this course is a great place to get started.*
 
