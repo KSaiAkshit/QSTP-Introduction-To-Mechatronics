@@ -28,8 +28,8 @@ Prefer PDFs over Markdown? View the course handout [here](Course_Handout.pdf).
 
 ### What is QSTP?
 
-Quark Summer Technical Projects (QSTP) is a platform where experienced BITS students (currently in their 2/3/4th year); part of the clubs or independently; mentor Project-centric Courses for other students over the summer. This course functioned from 6th July to 20th August 2021.
+Quark Summer Technical Projects (QSTP) is a platform where experienced BITS students (currently in their 2/3/4th year); part of the clubs or independently; mentor Project-centric Courses for other students over the summer. This course functioned from 11th July to 20th August 2022.
 
-Quark Summer Technical Projects (QSTP) in association with GDG (Google Developers Group) & WTM (Women Techmakers) Goa is open for participation from all students irrespective of their branch and year of study.
+Quark Summer Technical Projects (QSTP) in association with Coding Ninjas, GDG (Google Developers Group) & WTM (Women Techmakers) Goa is open for participation from all students irrespective of their branch and year of study.
 
 Please check out the QSTP'21 website for details on each project and further information. https://qstp.bitsquark.org/
